@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lavanya368
+- 👋 Hi, I’m @lavanya368<br>
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning about github.
 - 💞️ I’m looking to collaborate on projects.
